@@ -1,4 +1,5 @@
 ##########################################################################
+# Author: Brad Simkins
 # Analyzing the running speed of mammals
 # Dataset: Source:  Garland, T. (1983) The 
 # relation between maximal running speed and
